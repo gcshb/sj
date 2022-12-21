@@ -20,7 +20,7 @@ function displayDate(){
 </head>
 <body>
 <div align="center">
-			<img src="http://cdn.u1.huluxia.com/g4/M03/FA/79/rBAAdmOIG7OAOIW3AAFu6YMTqxM897.jpg" height="200px" width="200px">
+			<img src="https://user-images.githubusercontent.com/119094998/208670220-5248b1f2-d3fe-4bac-8fd8-6a947f49a9eb.jpg" height="200px" width="200px">
 		
 <h1>我的第一个 JavaScript 程序</h1>
 <p id="demo"></p>
